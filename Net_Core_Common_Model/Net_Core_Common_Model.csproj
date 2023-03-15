@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="7.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization.Policy" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+    <PackageReference Include="NLog" Version="5.1.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.2.2" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dto\Sys\SysLogError\" />
+    <Folder Include="Dto\Sys\SysLogLogin\" />
+    <Folder Include="Dto\Sys\SysModuleControl\" />
+    <Folder Include="Dto\Sys\SysParameter\" />
+    <Folder Include="Dto\Sys\SysLogExecute\" />
+    <Folder Include="Dto\Sys\SysCodeDetail\" />
+    <Folder Include="Dto\User\UserRoleControl\" />
+    <Folder Include="Dto\User\UserRoleMember\" />
+    <Folder Include="Dto\User\UserRoleAuth\" />
+    <Folder Include="Dto\User\UserInfoPassword\" />
+    <Folder Include="Dto\User\UserInfoControl\" />
+    <Folder Include="Dto\User\UserInfoAuth\" />
+    <Folder Include="Dto\User\UserRole\" />
+    <Folder Include="Dto\User\UserInfo\" />
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+</Project>
