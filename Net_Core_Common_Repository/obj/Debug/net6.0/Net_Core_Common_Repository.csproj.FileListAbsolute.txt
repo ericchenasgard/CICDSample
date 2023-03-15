@@ -1,0 +1,15 @@
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\bin\Debug\net6.0\Net_Core_Common_Repository.deps.json
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\bin\Debug\net6.0\Net_Core_Common_Repository.dll
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\bin\Debug\net6.0\Net_Core_Common_Repository.pdb
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\bin\Debug\net6.0\Net_Core_Common_Model.dll
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\bin\Debug\net6.0\Net_Core_Common_Model.pdb
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\Net_Core_Common_Repository.csproj.AssemblyReference.cache
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\Net_Core_Common_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\Net_Core_Common_Repository.AssemblyInfoInputs.cache
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\Net_Core_Common_Repository.AssemblyInfo.cs
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\Net_Core_Common_Repository.csproj.CoreCompileInputs.cache
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\Net_Core_Common_Repository.csproj.CopyComplete
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\Net_Core_Common_Repository.dll
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\refint\Net_Core_Common_Repository.dll
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\Net_Core_Common_Repository.pdb
+D:\TFS\net_core_common-main\Net_Core_Common_Repository\obj\Debug\net6.0\ref\Net_Core_Common_Repository.dll

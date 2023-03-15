@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Sys\SysCode\**" />
+    <EmbeddedResource Remove="Sys\SysCode\**" />
+    <None Remove="Sys\SysCode\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Net_Core_Common_Model\Net_Core_Common_Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Sys\SysLogError\" />
+    <Folder Include="Sys\SysLogTrajectory\" />
+    <Folder Include="Sys\SysLogLogin\" />
+    <Folder Include="Sys\SysCodeDetail\" />
+    <Folder Include="Sys\SysCodeMain\" />
+    <Folder Include="Sys\SysModuleClass\" />
+    <Folder Include="Sys\SysLogExecute\" />
+    <Folder Include="Sys\SysModuleControl\" />
+    <Folder Include="Sys\SysParameter\" />
+    <Folder Include="User\UserInfoAuth\" />
+    <Folder Include="User\UserInfoControl\" />
+    <Folder Include="User\UserInfoPassword\" />
+    <Folder Include="User\UserInfo\" />
+    <Folder Include="User\UserRoleAuth\" />
+    <Folder Include="User\UserRoleControl\" />
+    <Folder Include="User\UserRoleMember\" />
+    <Folder Include="User\UserRole\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="7.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization.Policy" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.2.0" />
+    <PackageReference Include="NLog" Version="5.1.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.2.2" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
