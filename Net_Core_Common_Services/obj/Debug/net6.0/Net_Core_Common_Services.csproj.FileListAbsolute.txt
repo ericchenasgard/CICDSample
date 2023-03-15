@@ -1,0 +1,12 @@
+D:\TFS\net_core_common-main\Net_Core_Common_Services\bin\Debug\net6.0\Net_Core_Common_Services.deps.json
+D:\TFS\net_core_common-main\Net_Core_Common_Services\bin\Debug\net6.0\Net_Core_Common_Services.dll
+D:\TFS\net_core_common-main\Net_Core_Common_Services\bin\Debug\net6.0\Net_Core_Common_Services.pdb
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\Net_Core_Common_Services.csproj.AssemblyReference.cache
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\Net_Core_Common_Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\Net_Core_Common_Services.AssemblyInfoInputs.cache
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\Net_Core_Common_Services.AssemblyInfo.cs
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\Net_Core_Common_Services.csproj.CoreCompileInputs.cache
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\Net_Core_Common_Services.dll
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\refint\Net_Core_Common_Services.dll
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\Net_Core_Common_Services.pdb
+D:\TFS\net_core_common-main\Net_Core_Common_Services\obj\Debug\net6.0\ref\Net_Core_Common_Services.dll
